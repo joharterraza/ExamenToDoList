@@ -1,0 +1,66 @@
+.list-app{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.inputForm{
+    width: 70%;
+    font-size: 15px;
+    border-radius: 4px;
+    padding: 5px;
+    
+    
+    
+    
+}
+
+.listDiv{
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.add-update{
+    
+    float: right;
+    font-size: 15px;    
+    border-radius: 4px;
+    color: white;
+    padding: 5px;
+    border-style: none;
+    cursor: pointer;    
+    
+}
+
+#agregar{
+    background-color: #0275d8;
+}
+.iconDiv{
+   
+    margin-left: auto;
+}
+
+.form, .messageNoTask{
+    padding: 10px;
+}
+
+.tasksDiv{
+    
+    display: flex;
+    padding: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;   
+    
+}
+
+.icons{
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.taskText{
+    font-size: 15px;
+}
